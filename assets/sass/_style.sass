@@ -1,8 +1,22 @@
 header#document-header
+    nav
+        *
+            font-family: $font-title
+        .active
+            color: $color-accent
     @include media-breakpoint-up(desktop)
         nav:not(.upper-menu) 
             > .container
                 flex-direction: column
                 .logo
                     margin-left: -30px
-                    margin-bottom: $spacing-3
+                    margin-bottom: $spacing-4
+.breadcrumb-nav
+    *
+        font-family: $font-title
+footer#document-footer
+    @include media-breakpoint-up(desktop)
+        > .container:first-of-type
+            justify-content: center
+            .logo
+                margin-left: -30px
