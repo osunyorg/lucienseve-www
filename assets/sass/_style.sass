@@ -14,9 +14,24 @@ header#document-header
 .breadcrumb-nav
     *
         font-family: $font-title
+        color: $color-text-alt
 footer#document-footer
-    @include media-breakpoint-up(desktop)
-        > .container:first-of-type
-            justify-content: center
-            .logo
-                margin-left: -30px
+    // padding-top: 100px
+    &::before
+        background-image: url(/assets/images/dessin.png)
+        background-size: 100%
+        background-repeat: no-repeat
+        content: ""
+        display: block
+        height: 20vw
+        margin: 0 auto
+        mix-blend-mode: multiply
+        min-height: 150px
+        max-height: 400px
+        max-width: $grid-max-width
+        position: relative
+        width: 100%
+    .logo
+        margin-left: pxToRem(-24)
+        @include media-breakpoint-up(desktop)
+            margin-left: pxToRem(-36)
