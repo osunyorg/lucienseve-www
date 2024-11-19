@@ -1,3 +1,20 @@
+body
+    position: relative
+    &::before
+        background-image: url(/assets/images/composition.png)
+        background-size: 80%
+        background-repeat: no-repeat
+        background-position: 100% 100%
+        bottom: 0
+        content: ""
+        display: block
+        height: 100%
+        mix-blend-mode: multiply
+        pointer-events: none
+        position: absolute
+        width: 100%
+        @include media-breakpoint-down(desktop)
+            background-size: 100%
 header#document-header
     nav
         *
@@ -16,21 +33,7 @@ header#document-header
         font-family: $font-title
         color: $color-text-alt
 footer#document-footer
-    // padding-top: 100px
-    &::before
-        background-image: url(/assets/images/dessin.png)
-        background-size: 100%
-        background-repeat: no-repeat
-        content: ""
-        display: block
-        height: 20vw
-        margin: 0 auto
-        mix-blend-mode: multiply
-        min-height: 150px
-        max-height: 400px
-        max-width: $grid-max-width
-        position: relative
-        width: 100%
+    min-height: 80vh
     .logo
         margin-left: pxToRem(-24)
         @include media-breakpoint-up(desktop)
