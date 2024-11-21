@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: 'Lucien Sève : biographie, photos et travaux personnels '
+  target: "/lucien-seve-biographie-photos-et-travaux-personnels/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -11,10 +15,6 @@ items:
   children: []
 - title: Équipe
   target: "/equipe/"
-  kind: page
-  children: []
-- title: 'Lucien Sève : biographie, photos et travaux personnels '
-  target: "/lucien-seve-biographie-photos-et-travaux-personnels/"
   kind: page
   children: []
 - title: Organisations
