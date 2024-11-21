@@ -21,4 +21,8 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: 'Lucien Sève : biographie, photos et travaux personnels '
+  target: "/lucien-seve-biographie-photos-et-travaux-personnels/"
+  kind: page
+  children: []
 
