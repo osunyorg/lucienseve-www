@@ -25,4 +25,8 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Publications de Lucien Sève
+  target: "/publications-de-lucien-seve/"
+  kind: page
+  children: []
 
