@@ -4,10 +4,26 @@ removePathAccents: true
 pagination:
   pagerSize: 30
 params:
+  menu:
+    dropdown:
+      linkToLevel1: true
   summary:
-    position: hero
+    position: content
   search:
     active: true
   logo:
     header: '/assets/images/logo.svg'
     footer: '/assets/images/logo.svg'
+  posts:
+    index:
+      layout: grid
+      options:
+        author: true
+        categories: true
+        date: true
+        image: false
+        reading_time: false
+        summary: true
+        subtitle: true
+    single:
+      author_signature: true
