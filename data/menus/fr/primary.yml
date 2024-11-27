@@ -39,6 +39,11 @@ items:
 - title: L'œuvre
   target: "/loeuvre/"
   kind: page
-  children: []
+  children:
+  - title: La psychologie
+    target: "/loeuvre/la-psychologie/"
+    kind: page
+    children: []
+    file: content/fr/pages/loeuvre/la-psychologie/_index.html
   file: content/fr/pages/loeuvre/_index.html
 
