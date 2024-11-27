@@ -26,8 +26,8 @@ items:
     children: []
     file: content/fr/pages/loeuvre/la-politique/_index.html
   file: content/fr/pages/loeuvre/_index.html
-- title: Actualités
-  target: "/actualites/"
+- title: Publications
+  target: "/publications/"
   kind: page
   children: []
   file: content/fr/posts/_index.html
@@ -51,9 +51,4 @@ items:
   kind: page
   children: []
   file: content/fr/pages/a-propos/_index.html
-- title: Publications de Lucien Sève
-  target: "/publications-de-lucien-seve/"
-  kind: page
-  children: []
-  file: content/fr/pages/publications-de-lucien-seve/_index.html
 
