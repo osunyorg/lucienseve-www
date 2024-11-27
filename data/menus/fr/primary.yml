@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: 'Faire connaître l''œuvre en donnant accès à la personne de l''auteur '
+- title: Biographie
   target: "/lucien-seve-biographie-photos-et-travaux-personnels/"
   kind: page
   children: []
