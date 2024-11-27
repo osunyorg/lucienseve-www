@@ -20,6 +20,11 @@ items:
     kind: page
     children: []
     file: content/fr/pages/loeuvre/la-philosophie/_index.html
+  - title: La politique
+    target: "/loeuvre/la-politique/"
+    kind: page
+    children: []
+    file: content/fr/pages/loeuvre/la-politique/_index.html
   file: content/fr/pages/loeuvre/_index.html
 - title: Actualités
   target: "/actualites/"
