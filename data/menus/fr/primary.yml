@@ -21,10 +21,10 @@ items:
     children: []
     file: content/fr/pages/loeuvre/la-philosophie/_index.html
   - title: La politique
-    target: "/loeuvre/la-politique/"
+    target: "/loeuvre/le-politique/"
     kind: page
     children: []
-    file: content/fr/pages/loeuvre/la-politique/_index.html
+    file: content/fr/pages/loeuvre/le-politique/_index.html
   file: content/fr/pages/loeuvre/_index.html
 - title: Publications
   target: "/publications/"
