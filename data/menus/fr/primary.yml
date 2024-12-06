@@ -29,7 +29,12 @@ items:
 - title: Publications
   target: "/publications/"
   kind: page
-  children: []
+  children:
+  - title: De Lucien Sève
+    target: "/publications/nature/de-lucien-seve/"
+    kind: category
+    children: []
+    file: content/fr/posts_categories/nature-de-lucien-seve/_index.html
   file: content/fr/posts/_index.html
 - title: À propos
   target: "/a-propos/"
