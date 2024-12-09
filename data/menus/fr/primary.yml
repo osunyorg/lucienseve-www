@@ -41,7 +41,7 @@ items:
     children: []
     file: content/fr/posts_categories/nature/sur-lucien-seve/_index.html
   file: content/fr/posts/_index.html
-- title: À propos
+- title: À propos...
   target: "/a-propos/"
   kind: page
   children: []
