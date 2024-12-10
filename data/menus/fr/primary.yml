@@ -41,14 +41,4 @@ items:
     children: []
     file: content/fr/posts_categories/nature/sur-lucien-seve/_index.html
   file: content/fr/posts/_index.html
-- title: À propos...
-  target: "/a-propos/"
-  kind: page
-  children:
-  - title: "… d’où vient cette idée de créer un site web pour contribuer à faire connaître
-      et fructifier l'œuvre de Lucien Sève ?"
-    target: ''
-    kind: blank
-    children: []
-  file: content/fr/pages/a-propos/_index.html
 
