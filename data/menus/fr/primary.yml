@@ -5,6 +5,7 @@ items:
   target: "/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes/"
   kind: page
   children: []
+  path: "/pages/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes"
   file: content/fr/pages/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes/_index.html
 - title: L'œuvre
   target: "/loeuvre/"
@@ -14,17 +15,21 @@ items:
     target: "/loeuvre/la-psychologie/"
     kind: page
     children: []
+    path: "/pages/loeuvre/la-psychologie"
     file: content/fr/pages/loeuvre/la-psychologie/_index.html
   - title: La philosophie
     target: "/loeuvre/la-philosophie/"
     kind: page
     children: []
+    path: "/pages/loeuvre/la-philosophie"
     file: content/fr/pages/loeuvre/la-philosophie/_index.html
   - title: La politique
     target: "/loeuvre/le-politique/"
     kind: page
     children: []
+    path: "/pages/loeuvre/le-politique"
     file: content/fr/pages/loeuvre/le-politique/_index.html
+  path: "/pages/loeuvre"
   file: content/fr/pages/loeuvre/_index.html
 - title: Publications
   target: "/publications/"
@@ -34,12 +39,15 @@ items:
     target: "/publications/nature/de-lucien-seve/"
     kind: category
     children: []
+    path: "/posts_categories/nature/de-lucien-seve"
     file: content/fr/posts_categories/nature/de-lucien-seve/_index.html
   - title: Sur Lucien Sève
     target: "/publications/nature/sur-lucien-seve/"
     kind: category
     children: []
+    path: "/posts_categories/nature/sur-lucien-seve"
     file: content/fr/posts_categories/nature/sur-lucien-seve/_index.html
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: À propos
   target: "/-2/"
@@ -50,5 +58,6 @@ items:
     target: ''
     kind: blank
     children: []
+  path: "/pages/-2"
   file: content/fr/pages/-2/_index.html
 
