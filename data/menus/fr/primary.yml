@@ -4,28 +4,33 @@ items:
 - title: Biographie
   target: "/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes"
   file: content/fr/pages/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes/_index.html
 - title: L'œuvre
   target: "/loeuvre/"
   kind: page
+  new_tab: false
   children:
   - title: La psychologie
     target: "/loeuvre/la-psychologie/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/loeuvre/la-psychologie"
     file: content/fr/pages/loeuvre/la-psychologie/_index.html
   - title: La philosophie
     target: "/loeuvre/la-philosophie/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/loeuvre/la-philosophie"
     file: content/fr/pages/loeuvre/la-philosophie/_index.html
   - title: La politique
     target: "/loeuvre/le-politique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/loeuvre/le-politique"
     file: content/fr/pages/loeuvre/le-politique/_index.html
@@ -34,16 +39,19 @@ items:
 - title: Publications
   target: "/publications/"
   kind: page
+  new_tab: false
   children:
   - title: De Lucien Sève
     target: "/publications/nature/de-lucien-seve/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/nature/de-lucien-seve"
     file: content/fr/posts_categories/nature/de-lucien-seve/_index.html
   - title: Sur Lucien Sève
     target: "/publications/nature/sur-lucien-seve/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/nature/sur-lucien-seve"
     file: content/fr/posts_categories/nature/sur-lucien-seve/_index.html
@@ -52,11 +60,13 @@ items:
 - title: À propos
   target: "/-2/"
   kind: page
+  new_tab: false
   children:
   - title: "… d’où vient cette idée de créer un site web pour contribuer à faire connaître
       et fructifier l'œuvre de Lucien Sève ?"
     target: ''
     kind: blank
+    new_tab: false
     children: []
   path: "/pages/-2"
   file: content/fr/pages/-2/_index.html
