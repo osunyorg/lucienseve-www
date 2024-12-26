@@ -58,7 +58,7 @@ items:
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: À propos
-  target: "/-2/"
+  target: "/a-propos/"
   kind: page
   new_tab: false
   children:
@@ -68,6 +68,6 @@ items:
     kind: blank
     new_tab: false
     children: []
-  path: "/pages/-2"
-  file: content/fr/pages/-2/_index.html
+  path: "/pages/a-propos"
+  file: content/fr/pages/a-propos/_index.html
 
