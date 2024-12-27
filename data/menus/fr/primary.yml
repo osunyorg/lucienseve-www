@@ -61,13 +61,7 @@ items:
   target: "/a-propos/"
   kind: page
   new_tab: false
-  children:
-  - title: "… d’où vient cette idée de créer un site web pour contribuer à faire connaître
-      et fructifier l'œuvre de Lucien Sève ?"
-    target: ''
-    kind: blank
-    new_tab: false
-    children: []
+  children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 
