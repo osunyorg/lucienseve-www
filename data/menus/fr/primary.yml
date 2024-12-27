@@ -65,7 +65,7 @@ items:
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Nous écrire
-  target: latelierlucienseve@google.com
+  target: ''
   kind: url
   new_tab: true
   children: []
