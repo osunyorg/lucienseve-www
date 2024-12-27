@@ -20,6 +20,13 @@ items:
     children: []
     path: "/pages/loeuvre/la-philosophie"
     file: content/fr/pages/loeuvre/la-philosophie/_index.html
+  - title: La psychologie
+    target: "/loeuvre/la-psychologie/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/loeuvre/la-psychologie"
+    file: content/fr/pages/loeuvre/la-psychologie/_index.html
   - title: La politique
     target: "/loeuvre/le-politique/"
     kind: page
@@ -41,13 +48,6 @@ items:
     children: []
     path: "/posts_categories/nature/de-lucien-seve"
     file: content/fr/posts_categories/nature/de-lucien-seve/_index.html
-  - title: La psychologie
-    target: "/loeuvre/la-psychologie/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/loeuvre/la-psychologie"
-    file: content/fr/pages/loeuvre/la-psychologie/_index.html
   - title: Sur Lucien Sève
     target: "/publications/nature/sur-lucien-seve/"
     kind: category
