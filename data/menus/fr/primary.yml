@@ -64,9 +64,4 @@ items:
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
-- title: Nous écrire
-  target: ''
-  kind: url
-  new_tab: true
-  children: []
 
