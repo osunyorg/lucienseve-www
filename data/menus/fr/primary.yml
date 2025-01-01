@@ -71,4 +71,11 @@ items:
   children: []
   path: "/"
   file: content/fr/_index.html
+- title: Remerciements
+  target: "/a-propos/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/a-propos"
+  file: content/fr/pages/a-propos/_index.html
 
