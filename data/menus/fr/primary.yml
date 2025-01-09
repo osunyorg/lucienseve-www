@@ -8,6 +8,13 @@ items:
   children: []
   path: "/pages/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes"
   file: content/fr/pages/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes/_index.html
+- title: L’œuvre
+  target: "/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/"
+  file: content/fr/_index.html
 - title: L’œuvre-vie, un biface ?
   target: "/loeuvre/"
   kind: page
@@ -50,11 +57,4 @@ items:
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
-- title: L’œuvre
-  target: "/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/"
-  file: content/fr/_index.html
 
