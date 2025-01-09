@@ -20,7 +20,7 @@ items:
     children: []
     path: "/pages/loeuvre/la-psychologie"
     file: content/fr/pages/loeuvre/la-psychologie/_index.html
-  - title: La philosophie
+  - title: "« La philosophie » ? "
     target: "/loeuvre/la-philosophie/"
     kind: page
     new_tab: false
