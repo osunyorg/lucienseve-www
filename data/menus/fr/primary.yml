@@ -20,6 +20,13 @@ items:
     children: []
     path: "/pages/loeuvre"
     file: content/fr/pages/loeuvre/_index.html
+  - title: Un biface en 3D ?
+    target: "/loeuvre/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/loeuvre"
+    file: content/fr/pages/loeuvre/_index.html
   - title: "« L’homme » ?"
     target: "/loeuvre/la-psychologie/"
     kind: page
@@ -41,13 +48,6 @@ items:
     children: []
     path: "/pages/loeuvre/le-politique"
     file: content/fr/pages/loeuvre/le-politique/_index.html
-  - title: Un biface en 3D ?
-    target: "/loeuvre/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/loeuvre"
-    file: content/fr/pages/loeuvre/_index.html
   path: "/pages/loeuvre"
   file: content/fr/pages/loeuvre/_index.html
 - title: Publications
