@@ -27,7 +27,7 @@ items:
     children: []
     path: "/pages/loeuvre/la-philosophie"
     file: content/fr/pages/loeuvre/la-philosophie/_index.html
-  - title: "« Le comunisme » ?"
+  - title: "« Le communisme » ?"
     target: "/loeuvre/le-politique/"
     kind: page
     new_tab: false
