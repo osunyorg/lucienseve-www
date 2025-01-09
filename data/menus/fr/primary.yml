@@ -15,13 +15,6 @@ items:
   children: []
   path: "/"
   file: content/fr/_index.html
-- title: Un biface en 3D ?
-  target: "/loeuvre/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/loeuvre"
-  file: content/fr/pages/loeuvre/_index.html
 - title: Publications
   target: "/publications/"
   kind: page
