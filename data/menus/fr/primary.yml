@@ -27,7 +27,7 @@ items:
     children: []
     path: "/pages/loeuvre/la-philosophie"
     file: content/fr/pages/loeuvre/la-philosophie/_index.html
-  - title: La politique
+  - title: "« Le comunisme » ?"
     target: "/loeuvre/le-politique/"
     kind: page
     new_tab: false
