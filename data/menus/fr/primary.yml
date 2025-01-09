@@ -13,7 +13,7 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: La psychologie
+  - title: "« L’homme » ?"
     target: "/loeuvre/la-psychologie/"
     kind: page
     new_tab: false
