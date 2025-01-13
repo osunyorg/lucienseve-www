@@ -23,6 +23,11 @@ items:
     kind: blank
     new_tab: false
     children: []
+  - title: "« L’homme » ?"
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
   path: "/pages/loeuvre"
   file: content/fr/pages/loeuvre/_index.html
 - title: Publications
