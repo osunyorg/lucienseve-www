@@ -59,7 +59,7 @@ items:
     children: []
     path: "/posts_categories/nature/de-lucien-seve"
     file: content/fr/posts_categories/nature/de-lucien-seve/_index.html
-  - title: Sur Lucien Sève
+  - title: Publications sur Lucien Sève
     target: "/publications/nature/sur-lucien-seve/"
     kind: category
     new_tab: false
