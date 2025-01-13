@@ -52,7 +52,7 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: De Lucien Sève
+  - title: Publications de Lucien Sève
     target: "/publications/nature/de-lucien-seve/"
     kind: category
     new_tab: false
