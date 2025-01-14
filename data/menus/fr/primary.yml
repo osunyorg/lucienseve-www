@@ -13,11 +13,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: " L'œuvre-vie de Lucien Sève ? Un biface en 3D"
-    target: ''
-    kind: blank
-    new_tab: false
-    children: []
   - title: Un biface en 3D ?
     target: "/loeuvre/"
     kind: page
