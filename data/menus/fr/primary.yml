@@ -21,12 +21,12 @@ items:
   new_tab: false
   children:
   - title: Publications de Lucien Sève
-    target: "/-1/nature/de-lucien-seve/"
+    target: "/-1/nature/publications-de-lucien-seve/"
     kind: category
     new_tab: false
     children: []
-    path: "/posts_categories/nature/de-lucien-seve"
-    file: content/fr/posts_categories/nature/de-lucien-seve/_index.html
+    path: "/posts_categories/nature/publications-de-lucien-seve"
+    file: content/fr/posts_categories/nature/publications-de-lucien-seve/_index.html
   - title: Publications sur Lucien Sève
     target: "/-1/nature/sur-lucien-seve/"
     kind: category
