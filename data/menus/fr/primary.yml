@@ -22,7 +22,7 @@ items:
   children: []
   path: "/"
   file: content/fr/_index.html
-- title: Publications
+- title: Les publications
   target: "/-1/"
   kind: page
   new_tab: false
