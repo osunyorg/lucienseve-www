@@ -15,7 +15,7 @@ items:
   children: []
   path: "/pages/loeuvre"
   file: content/fr/pages/loeuvre/_index.html
-- title: Boussole
+- title: La boussole
   target: "/"
   kind: page
   new_tab: false
