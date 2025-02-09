@@ -15,13 +15,6 @@ items:
   children: []
   path: "/pages/loeuvre"
   file: content/fr/pages/loeuvre/_index.html
-- title: Boussole
-  target: "/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/"
-  file: content/fr/_index.html
 - title: Publications
   target: "/-1/"
   kind: page
