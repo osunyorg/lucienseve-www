@@ -19,14 +19,7 @@ items:
   target: "/"
   kind: page
   new_tab: false
-  children:
-  - title: Le Grand Tableau Sève
-    target: "/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/"
-    file: content/fr/_index.html
+  children: []
   path: "/"
   file: content/fr/_index.html
 - title: Publications
