@@ -5,14 +5,7 @@ items:
   target: "/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes/"
   kind: page
   new_tab: false
-  children:
-  - title: La boussole
-    target: "/-1/nature/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/nature"
-    file: content/fr/posts_categories/nature/_index.html
+  children: []
   path: "/pages/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes"
   file: content/fr/pages/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes/_index.html
 - title: L’œuvre
@@ -22,6 +15,13 @@ items:
   children: []
   path: "/pages/loeuvre"
   file: content/fr/pages/loeuvre/_index.html
+- title: La boussole
+  target: "/-1/nature/"
+  kind: category
+  new_tab: false
+  children: []
+  path: "/posts_categories/nature"
+  file: content/fr/posts_categories/nature/_index.html
 - title: Les publications
   target: "/-1/"
   kind: page
