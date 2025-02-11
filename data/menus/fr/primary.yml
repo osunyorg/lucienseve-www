@@ -22,7 +22,7 @@ items:
   children: []
   path: "/pages/la-boussole"
   file: content/fr/pages/la-boussole/_index.html
-- title: Les publications
+- title: Publications
   target: "/-1/"
   kind: page
   new_tab: false
