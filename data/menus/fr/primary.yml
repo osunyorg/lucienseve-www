@@ -16,12 +16,12 @@ items:
   path: "/pages/loeuvre"
   file: content/fr/pages/loeuvre/_index.html
 - title: Boussole
-  target: "/la-boussole/"
+  target: "/boussole/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/la-boussole"
-  file: content/fr/pages/la-boussole/_index.html
+  path: "/pages/boussole"
+  file: content/fr/pages/boussole/_index.html
 - title: Publications
   target: "/-1/"
   kind: page
