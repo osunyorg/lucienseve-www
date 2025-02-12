@@ -2,6 +2,11 @@
 
 baseURL: https://www.lucienseve.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 59c300a1-0029-49ce-b213-0abe055d1443
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
