@@ -23,19 +23,19 @@ items:
   path: "/pages/boussole"
   file: content/fr/pages/boussole/_index.html
 - title: Publications
-  target: "/-1/"
+  target: "/publications/"
   kind: page
   new_tab: false
   children:
   - title: Publications de Lucien Sève
-    target: "/-1/nature/publications-de-lucien-seve/"
+    target: "/publications/nature/publications-de-lucien-seve/"
     kind: category
     new_tab: false
     children: []
     path: "/posts_categories/nature/publications-de-lucien-seve"
     file: content/fr/posts_categories/nature/publications-de-lucien-seve/_index.html
   - title: Publications sur Lucien Sève
-    target: "/-1/nature/publications-sur-lucien-seve/"
+    target: "/publications/nature/publications-sur-lucien-seve/"
     kind: category
     new_tab: false
     children: []
