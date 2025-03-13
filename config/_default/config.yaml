@@ -14,10 +14,11 @@ params:
     header: '/assets/images/logo.svg'
     footer: '/assets/images/logo.svg'
   posts:
+    date_format: "2006"
     index:
-      layout: grid
+      layout: list
       options:
-        author: true
+        author: false
         categories: true
         date: true
         image: false
