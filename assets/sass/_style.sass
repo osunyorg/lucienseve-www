@@ -18,9 +18,20 @@ header#document-header
     *
         font-family: $font-title
         color: $color-text-alt
-// .block-chapter
-//     p
-//         text-indent: $spacing-4
+
+.posts__section,
+.posts_categories__term,
+.teachers__term
+    .posts--list 
+        article 
+            margin-bottom: $spacing-3
+            padding-bottom: $spacing-3
+            .post-content 
+                .post-title, 
+                [itemprop="abstract"]
+                   @include media-breakpoint-up(desktop)
+                        max-width: columns(10)
+
 footer#document-footer
     padding-top: 35vw
     &::before
