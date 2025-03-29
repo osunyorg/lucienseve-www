@@ -50,4 +50,11 @@ items:
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
+- title: Rechercher
+  target: "/publications/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
 
