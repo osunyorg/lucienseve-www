@@ -1,6 +1,7 @@
 theme: osuny
 _merge: deep
 params:
+  plausible: lucienseve.org
   menu:
     primary:
       level_2:
