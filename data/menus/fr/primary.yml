@@ -2,40 +2,40 @@
 title: Menu principal
 items:
 - title: Biographie
-  target: "/fr/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes/"
+  target: "/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes"
   file: content/fr/pages/lucien-seve-biographie-photos-travaux-personnels-hommages-posthumes/_index.html
 - title: Œuvre
-  target: "/fr/oeuvre/"
+  target: "/oeuvre/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/oeuvre"
   file: content/fr/pages/oeuvre/_index.html
 - title: Boussole
-  target: "/fr/boussole/"
+  target: "/boussole/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/boussole"
   file: content/fr/pages/boussole/_index.html
 - title: Publications
-  target: "/fr/publications/"
+  target: "/publications/"
   kind: page
   new_tab: false
   children:
   - title: Publications de Lucien Sève
-    target: "/fr/publications/nature/publications-de-lucien-seve/"
+    target: "/publications/nature/publications-de-lucien-seve/"
     kind: category
     new_tab: false
     children: []
     path: "/posts_categories/nature/publications-de-lucien-seve"
     file: content/fr/posts_categories/nature/publications-de-lucien-seve/_index.html
   - title: Publications sur Lucien Sève
-    target: "/fr/publications/nature/publications-sur-lucien-seve/"
+    target: "/publications/nature/publications-sur-lucien-seve/"
     kind: category
     new_tab: false
     children: []
@@ -44,7 +44,7 @@ items:
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: À propos
-  target: "/fr/a-propos/"
+  target: "/a-propos/"
   kind: page
   new_tab: false
   children: []
