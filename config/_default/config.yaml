@@ -19,7 +19,7 @@ params:
     index:
       layout: list
       options:
-        author: false
+        author: true
         categories: true
         date: true
         image: false
