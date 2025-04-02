@@ -2,14 +2,14 @@
 title: Informations légales
 items:
 - title: Mentions légales
-  target: "/mentions-legales/"
+  target: "/fr/mentions-legales/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
 - title: Plan du site
-  target: "/plan-du-site/"
+  target: "/fr/plan-du-site/"
   kind: page
   new_tab: false
   children: []
