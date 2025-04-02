@@ -15,4 +15,9 @@ items:
   children: []
   path: "/pages/plan-du-site"
   file: content/fr/pages/plan-du-site/_index.html
+- title: Nous écrire
+  target: mailto:latelierlucienseve@free.fr
+  kind: url
+  new_tab: false
+  children: []
 
