@@ -1,6 +1,11 @@
 ---
 title: Informations légales
 items:
+- title: Nous écrire
+  target: mailto:latelierlucienseve@free.fr
+  kind: url
+  new_tab: false
+  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
