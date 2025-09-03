@@ -15,7 +15,7 @@ items:
   children: []
   path: "/pages/oeuvre"
   file: content/fr/pages/oeuvre/_index.html
-- title: Boussole
+- title: Boussole(s)
   target: "/boussole/"
   kind: page
   new_tab: false
