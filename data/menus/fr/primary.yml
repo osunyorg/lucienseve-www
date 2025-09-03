@@ -19,7 +19,21 @@ items:
   target: "/boussole/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: "« Mon oeuvre » Lucien Sève"
+    target: "/publications/nature/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/nature"
+    file: content/fr/posts_categories/nature/_index.html
+  - title: Le Grand Tableau Sève (GTS)
+    target: "/publications/nature/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/nature"
+    file: content/fr/posts_categories/nature/_index.html
   path: "/pages/boussole"
   file: content/fr/pages/boussole/_index.html
 - title: Publications
