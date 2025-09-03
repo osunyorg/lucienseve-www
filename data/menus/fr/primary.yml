@@ -28,12 +28,12 @@ items:
     path: "/pages/boussoles/mon-oeuvre-lucien-seve"
     file: content/fr/pages/boussoles/mon-oeuvre-lucien-seve/_index.html
   - title: Le Grand Tableau Sève (GTS)
-    target: "/boussoles/boussole/"
+    target: "/boussoles/le-grand-tableau-seve-gts/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/boussoles/boussole"
-    file: content/fr/pages/boussoles/boussole/_index.html
+    path: "/pages/boussoles/le-grand-tableau-seve-gts"
+    file: content/fr/pages/boussoles/le-grand-tableau-seve-gts/_index.html
   path: "/pages/boussoles"
   file: content/fr/pages/boussoles/_index.html
 - title: Publications
