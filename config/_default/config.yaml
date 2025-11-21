@@ -11,6 +11,11 @@ params:
     position: content
   search:
     active: true
+  home:
+    head:
+      title: site
+    toc:
+      disabled: false
   logo:
     header: '/assets/images/logo.svg'
     footer: '/assets/images/logo.svg'
