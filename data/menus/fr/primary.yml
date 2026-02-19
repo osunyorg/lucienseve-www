@@ -25,15 +25,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: "« Mon œuvre » Lucien Sève"
-    slug: mon-oeuvre-lucien-seve
-    target: "/boussoles/mon-oeuvre-lucien-seve/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/boussoles/mon-oeuvre-lucien-seve"
-    file: content/fr/pages/boussoles/mon-oeuvre-lucien-seve/_index.html
   - title: Le Grand Tableau Sève (GTS)
     slug: le-grand-tableau-seve-gts
     target: "/boussoles/le-grand-tableau-seve-gts/"
@@ -43,6 +34,15 @@ items:
     descendants_targets: []
     path: "/pages/boussoles/le-grand-tableau-seve-gts"
     file: content/fr/pages/boussoles/le-grand-tableau-seve-gts/_index.html
+  - title: "« Mon œuvre » Lucien Sève"
+    slug: mon-oeuvre-lucien-seve
+    target: "/boussoles/mon-oeuvre-lucien-seve/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/boussoles/mon-oeuvre-lucien-seve"
+    file: content/fr/pages/boussoles/mon-oeuvre-lucien-seve/_index.html
   descendants_targets:
   - "/boussoles/le-grand-tableau-seve-gts/"
   - "/boussoles/mon-oeuvre-lucien-seve/"
