@@ -7,6 +7,11 @@ osuny:
   website:
     id: 59c300a1-0029-49ce-b213-0abe055d1443
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "lucienseve.org"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
