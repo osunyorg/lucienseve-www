@@ -54,8 +54,8 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Publications de Lucien Sève
-    slug: publications-de-lucien-seve
+  - title: Livres de Lucien Sève
+    slug: livres-de-lucien-seve
     target: "/publications/nature/publications-de-lucien-seve/"
     kind: category
     new_tab: false
